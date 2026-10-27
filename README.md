@@ -44,11 +44,10 @@ This project analyzes BlinkIT grocery sales data using Python to explore product
 - Inventory, marketing, and operational recommendations
 
 ## Key Findings
-Replace this section with verified results from the completed notebook:
-- Highest-sales product category: [Insert result]
-- Highest-sales outlet type: [Insert result]
-- Highest-sales location tier: [Insert result]
-- Top 10 products' contribution: [Insert percentage]
+- Highest-sales product category: FDU12
+- Highest-sales outlet type: Supermarket Type1
+- Highest-sales location tier: Tier 3
+- Top 10 products' contribution: 1.8 %
 
 ## Recommendations
 - Monitor availability of high-contributing products.
